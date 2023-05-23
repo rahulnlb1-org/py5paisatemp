@@ -43,7 +43,7 @@ setup(
     long_description_content_type="text/markdown",
     include_package_data=True,
     keywords='py5paisa',
-    name='py5paisa',
+    name='py5paisatemp',
     packages=find_packages(include=['py5paisa', 'py5paisa.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
